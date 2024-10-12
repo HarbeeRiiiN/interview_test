@@ -39,7 +39,7 @@ A simple web application that displays a list of products in card format. Users 
 1. Clone this repository
 
    ```shell
-   git remote add origin https://github.com/HarbeeRiiiN/interview_test.git
+   git clone https://github.com/HarbeeRiiiN/interview_test.git
 
 2. Navigate to the ‘StarterCode' directory
 
